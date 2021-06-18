@@ -1,0 +1,9 @@
+form{
+    width: 100%;
+}
+.triangleWrapper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
