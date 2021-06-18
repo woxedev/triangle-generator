@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { TwitterPicker } from 'react-color';
 import {useDispatch, useSelector} from "react-redux";
 import {setColor} from "./redux/actions";
